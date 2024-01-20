@@ -2,7 +2,7 @@
 Landing page for Coaching Institute using HTML and CSS.
 
 ## Hosting Link
-[Click here to view the Landing Page](your-hosting-link)
+[Click here to view the Landing Page](https://bhargavsaiakula.github.io/LandingPage/)
 
 ---
 
