@@ -1,11 +1,20 @@
 # LandingPage
-Landing page for Coaching Institute using HTML,CSS.
-hosting link-
-#home
-![Calculator](https://github.com/BhargavSaiAkula/Calculator/assets/121541530/864c9a23-9680-47d8-a05c-fc5b5efe4148)
-#course
-![Calculator](https://github.com/BhargavSaiAkula/Calculator/assets/121541530/864c9a23-9680-47d8-a05c-fc5b5efe4148)
-#placement
-![Calculator](https://github.com/BhargavSaiAkula/Calculator/assets/121541530/864c9a23-9680-47d8-a05c-fc5b5efe4148)
-#contact
-![Calculator](https://github.com/BhargavSaiAkula/Calculator/assets/121541530/864c9a23-9680-47d8-a05c-fc5b5efe4148)
+Landing page for Coaching Institute using HTML and CSS.
+
+## Hosting Link
+[Click here to view the Landing Page](your-hosting-link)
+
+---
+
+## Home
+![Home](https://github.com/BhargavSaiAkula/LandingPage/blob/main/images/Home.PNG)
+
+## Course
+![Course](https://github.com/BhargavSaiAkula/LandingPage/blob/main/images/Course.PNG)
+
+## Placement
+![Placement](https://github.com/BhargavSaiAkula/LandingPage/blob/main/images/placement.PNG)
+
+## Contact
+![Contact](https://github.com/BhargavSaiAkula/LandingPage/blob/main/images/contact.PNG)
+
